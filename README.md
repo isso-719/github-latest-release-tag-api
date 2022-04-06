@@ -1,0 +1,1 @@
+GitHub の最新リリース tag を返す API です。
